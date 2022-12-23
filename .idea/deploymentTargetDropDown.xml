@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <targetSelectedWithDropDown>
+      <Target>
+        <type value="BOOT_WITH_SNAPSHOT_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="C:\Users\User\.android\avd\Pixel_2_API_30.avd" />
+          </Key>
+        </deviceKey>
+        <snapshotKey value="C:\Users\User\.android\avd\Pixel_2_API_30.avd\snapshots\snap_2022-09-09_17-20-55" />
+      </Target>
+    </targetSelectedWithDropDown>
+    <timeTargetWasSelectedWithDropDown value="2022-12-23T17:39:27.924291200Z" />
+  </component>
+</project>
